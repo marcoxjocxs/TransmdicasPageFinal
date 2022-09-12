@@ -17,7 +17,7 @@ export default function Servicios() {
   return (
     <>
       <Header />
-      <Box style={{ paddingTop: isActivate ? "0" : "150px" }} >
+      <Box style={{ paddingTop: isActivate ? "0" : "150px" ,overflow:"hidden" }} >
         <ServiciosVista />
       </Box>
 

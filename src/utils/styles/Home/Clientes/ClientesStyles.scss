@@ -1,0 +1,15 @@
+.imgclients{
+    width: 140px;
+    object-fit: contain;
+}
+.titleClientes{
+    font-weight: bolder !important;
+    font-size: 18px !important;
+    padding-bottom: 40px !important ;
+}
+.ContenedorImgClientes
+{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}

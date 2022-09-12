@@ -1,0 +1,23 @@
+
+.containerMision{
+    border-right: 1px solid;
+    @media (max-width: 600px) {
+        border-right: none;
+    }
+}
+
+.textTittlemisionvision{
+    text-align: center !important; 
+    font-size: 25px !important;
+    font-weight: bolder !important;
+}
+
+.textmisionvision{
+    font-size: 14px !important;
+    text-align: justify;
+    
+}
+
+.contenedor1{
+    padding: 0 15%;
+}

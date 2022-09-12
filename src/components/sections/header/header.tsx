@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import Container from "@mui/material/Container";
 import { Link, Drawer, IconButton, List, ListItem } from "@mui/material";
 
-import "../../../assets/styles/Header/HeaderStyles.scss";
-/* import transmdicas from "../../../assets/img/Logos/transmdicasV2.png"; */
-import transmdicas from "../../../assets/img/Logos/transmdicasV2.png";
+import "../../../utils/styles/Header/HeaderStyles.scss";
+/* import transmdicas from "../../../utils/img/Logos/transmdicasV2.png"; */
+import transmdicas from "../../../utils/img/Logos/transmdicasV2.png";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
@@ -69,12 +69,12 @@ const Header = () => {
                   <ul className="information">
                     <Hidden mdDown>
                       <li>
-                        Telefono: <a href="tel: 054456123">(054)456 123</a>
+                        Telefono: <a href="tel: 054401065">(054) 40-1065</a>
                       </li>
                       <li>
                         Email:{" "}
-                        <a href="mailito: contacto@grupopeso.com">
-                          contacto@grupopeso.com
+                        <a href="mailito: transmdicas@grupopezo.com">
+                          transmdicas@grupopezo.com
                         </a>
                       </li>
                     </Hidden>

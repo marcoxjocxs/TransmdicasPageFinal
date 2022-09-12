@@ -4,7 +4,7 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { Button, Container, Grid, useMediaQuery, useTheme } from '@mui/material';
-import "../../assets/styles/Home/TapVerticalHome/TapVerticalStyles.scss";
+import "../../utils/styles/Home/TapVerticalHome/TapVerticalStyles.scss";
 
 
 
@@ -69,7 +69,7 @@ export default function ServiciosVista() {
       <Container className="containerGeneral">
         <Box>
           <Grid container>
-            <Grid item xs={12} md={5}>
+            <Grid item xs={12} md={5}> 
               <Tabs
                 orientation={matchLg ? "vertical" : "horizontal"}
                 variant={matchLg ? "standard" : "scrollable"}

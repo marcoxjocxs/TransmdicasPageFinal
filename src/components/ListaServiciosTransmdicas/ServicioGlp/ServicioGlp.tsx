@@ -1,12 +1,12 @@
 import React from 'react'
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
-import Image from "../../../assets/img/otros/camionprueba.jpg";
+import Image from "../../../utils/img/otros/camionprueba.jpg";
 import Grid from '@mui/material/Grid'
 import LocalShippingIcon from "@mui/icons-material/LocalShipping";
-import "../../../assets/styles/ListadeServicios/Glp/Glp.scss"
+import "../../../utils/styles/ListadeServicios/Glp/Glp.scss"
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
-import alejandroimagen from "../../../assets/img/Galeria/16.jpg"
+import alejandroimagen from "../../../utils/img/Galeria/16.jpg"
 import { Box } from '@mui/material';
 
 const Glp = () => {

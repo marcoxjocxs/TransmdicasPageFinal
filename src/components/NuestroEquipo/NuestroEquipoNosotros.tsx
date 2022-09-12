@@ -1,9 +1,9 @@
 import React from 'react'
 import Container from "@mui/material/Container";
 import { Grid, Link, Typography, Box } from '@mui/material'
-import "../../assets/styles/EquipodeTrabajo/EquipoTrabajo.scss"
-import Image from "../../assets/img/Nosotros/nosotros_1.jpg";
-import Image1 from "../../assets/img/Nosotros/nosotros02.jpg";
+import "../../utils/styles/EquipodeTrabajo/EquipoTrabajo.scss"
+import Image from "../../utils/img/Nosotros/nosotros_1.jpg";
+import Image1 from "../../utils/img/Nosotros/nosotros02.jpg";
 import Button, { ButtonProps } from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
 const ColorButton = styled(Button)<ButtonProps>(({ theme }) => ({

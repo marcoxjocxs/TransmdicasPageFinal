@@ -1,9 +1,9 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography } from "@mui/material";
-import "../../../assets/styles/Politicas/14001/14001Styles.scss";
-import poster1 from "../../../assets/img/Politicas/Ambiental.jpg";
-import Image from "../../../assets/img/Home/Nosotros/Nosotros03.jpg";
+import "../../../utils/styles/Politicas/14001/14001Styles.scss";
+import poster1 from "../../../utils/img/Politicas/Ambiental.jpg";
+import Image from "../../../utils/img/Home/Nosotros/Nosotros03.jpg";
 import CircleIcon from "@mui/icons-material/FiberManualRecord";
 const Politica14001 = () => {
   return (

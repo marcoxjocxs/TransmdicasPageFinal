@@ -1,11 +1,11 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import {  Link, Typography, Grid } from "@mui/material";
-import "../../assets/styles/ValoresNosotros/ValoresStyles.scss";
-import ResponsabilidadIcon from "../../assets/img/otros/responsabilidadIcon.png";
-import icon2 from "../../assets/img/Home/Nosotros/icon2.png";
-import icon3 from "../../assets/img/Home/Nosotros/icon3.png";
-import icon4 from "../../assets/img/Home/Nosotros/icon4.png";
+import "../../utils/styles/ValoresNosotros/ValoresStyles.scss";
+import ResponsabilidadIcon from "../../utils/img/otros/responsabilidadIcon.png";
+import icon2 from "../../utils/img/Home/Nosotros/icon2.png";
+import icon3 from "../../utils/img/Home/Nosotros/icon3.png";
+import icon4 from "../../utils/img/Home/Nosotros/icon4.png";
 import Box from "@mui/material/Box";
 const Valores = () => {
   return (

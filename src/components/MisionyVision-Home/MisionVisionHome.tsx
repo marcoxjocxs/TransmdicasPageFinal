@@ -3,7 +3,7 @@ import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import Grid from '@mui/material/Grid'
 import { Box } from '@mui/material';
-import "../../assets/styles/Home/MisionVision/MisionVisionHomeStyles.scss"
+import "../../utils/styles/Home/MisionVision/MisionVisionHomeStyles.scss"
 export default function MissionVision() {
 
     return (

@@ -4,7 +4,7 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { Button, Container, Grid, useMediaQuery, useTheme } from '@mui/material';
-import "../../assets/styles/Home/TapVerticalHome/TapVerticalStyles.scss";
+import "../../utils/styles/Home/TapVerticalHome/TapVerticalStyles.scss";
 
 interface TabPanelProps {
   children?: React.ReactNode;

@@ -2,8 +2,8 @@ import React from "react";
 import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography, Hidden } from "@mui/material";
 
-import "../../../assets/styles/Footer/FooterStyles.scss";
-import transmdicas from "../../../assets/img/Logos/transmdicasV2.png";
+import "../../../utils/styles/Footer/FooterStyles.scss";
+import transmdicas from "../../../utils/img/Logos/transmdicasV2.png";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";

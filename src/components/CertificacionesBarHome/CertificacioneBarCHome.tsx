@@ -1,9 +1,9 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography } from "@mui/material";
-import "../../assets/styles/Home/Certificados/CertificadosStyles.scss";
-import logoSgs from "../../assets/img/Logos/sgs.png";
-import logoukas from "../../assets/img/Logos/ukas.png";
+import "../../utils/styles/Home/Certificados/CertificadosStyles.scss";
+import logoSgs from "../../utils/img/Logos/sgs.png";
+import logoukas from "../../utils/img/Logos/ukas.png";
 const CertiBar = () => {
   return (
     <Box style={{background:"#d3d3d36e", marginBottom:"80px", padding:"30px 0"}}>

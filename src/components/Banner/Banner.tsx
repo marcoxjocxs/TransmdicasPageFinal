@@ -1,7 +1,7 @@
-import "../../assets/styles/Banner/BannerStyles.scss"
+import "../../utils/styles/Banner/BannerStyles.scss"
 import { Box } from '@mui/material'
 import Typography from '@mui/material/Typography';
-import poster1 from '../../assets/img/Home/Banner/Carrusel1.jpg'
+import poster1 from '../../utils/img/Home/Banner/Carrusel1.jpg'
 import Cards from '../Cards/Cards';
 import zIndex from "@mui/material/styles/zIndex";
 

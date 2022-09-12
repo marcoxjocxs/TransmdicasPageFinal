@@ -1,14 +1,14 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
-import Image from "../../assets/img/Nosotros/SobreNosotros1.jpg";
-import icon1 from "../../assets/img/Iconos/cargasdiversas.png";
-import icon2 from "../../assets/img/Iconos/hidrocarburos.png";
-import icon3 from "../../assets/img/Iconos/cemento.png";
-import icon4 from "../../assets/img/Iconos/glp.png";
+import Image from "../../utils/img/Nosotros/SobreNosotros1.jpg";
+import icon1 from "../../utils/img/Iconos/cargasdiversas.png";
+import icon2 from "../../utils/img/Iconos/hidrocarburos.png";
+import icon3 from "../../utils/img/Iconos/cemento.png";
+import icon4 from "../../utils/img/Iconos/glp.png";
 import Grid from "@mui/material/Grid";
 import LocalShippingIcon from "@mui/icons-material/LocalShipping";
-import "../../assets/styles/Home/Nosotros/NosotrosHomeStyle.scss";
+import "../../utils/styles/Home/Nosotros/NosotrosHomeStyle.scss";
 import { Box } from "@mui/material";
 import MissionVision from "../../components/MisionyVision-Home/MisionVisionHome";
 const NosotrosHome = () => {

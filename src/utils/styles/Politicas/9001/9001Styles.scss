@@ -1,0 +1,48 @@
+.TittlePolitica9001{
+    font-size: 30px !important;
+    font-weight: bolder;
+    margin-bottom: 30px !important;
+   
+}
+.TextPolitica9001Part1{
+    font-size: 14px !important;
+    margin-bottom: 30px !important;
+}
+.TextPolitica9001Part2{
+    font-size: 14px !important;
+    margin-bottom: 30px !important;
+}
+.PoliticasPortada{
+    width: 100%;
+    z-index: 1;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    img {
+        object-fit:cover !important;
+        width: 100%;
+        height: auto;
+        height: 100%;
+     
+    }
+}
+.PoliticasInformacion{
+    z-index: 2;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.55);
+    text-align: justify;
+    padding: 30px;
+    color: white;
+    /* width: 60%; */
+   /*  display: flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+
+.positiconversionandfecha
+{
+    display: flex;
+    /* justify-content: flex-end; */
+    flex-direction: column;
+    align-items: flex-end;
+}

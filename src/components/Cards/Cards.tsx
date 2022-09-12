@@ -1,12 +1,12 @@
 import { Box } from '@mui/material'
 import React from 'react'
-import "../../assets/styles/Cards/CardsStyles.scss";
+import "../../utils/styles/Cards/CardsStyles.scss";
 import Grid from "@mui/material/Grid";
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
-import Card1 from "../../assets/img/Home/Cards/Card1.jpg"
-import Card2 from "../../assets/img/Home/Cards/Card2.jpg"
-import Card3 from "../../assets/img/Home/Cards/Card3.jpg"
+import Card1 from "../../utils/img/Home/Cards/Card1.jpg"
+import Card2 from "../../utils/img/Home/Cards/Card2.jpg"
+import Card3 from "../../utils/img/Home/Cards/Card3.jpg"
 import Button, { ButtonProps } from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
 const ColorButton = styled(Button)<ButtonProps>(({ theme }) => ({

@@ -1,8 +1,8 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography } from "@mui/material";
-import img15 from "../../assets/img/Galeria/15.jpg";
-import Image1 from "../../assets/img/otros/camionprueba.jpg";
+import img15 from "../../utils/img/Galeria/15.jpg";
+import Image1 from "../../utils/img/otros/camionprueba.jpg";
 const Nosotros = () => {
   return (
     <Box  style={{ paddingBottom: "50px" }}>

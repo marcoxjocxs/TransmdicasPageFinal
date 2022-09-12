@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
-import Image from "../../../assets/img/otros/camionprueba.jpg";
+import Image from "../../../utils/img/otros/camionprueba.jpg";
 import Grid from "@mui/material/Grid";
-import "../../assets/styles/Video/VideoStyles.scss";
+import "../../utils/styles/Video/VideoStyles.scss";
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { TextField, Button } from "@mui/material";
 import { Box } from "@mui/material";
@@ -40,7 +40,7 @@ const Video = () => {
       <Box style={{ width: "100%", objectFit: "contain", maxHeight: "100vh" }}>
         <video loop autoPlay muted className="videoTransmdicas">
           <source
-            src={require("../../assets/video/videoTransmdicas.mp4")}
+            src={require("../../utils/video/videoTransmdicas.mp4")}
             type="video/mp4"
           />
         </video>

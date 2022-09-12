@@ -6,12 +6,12 @@ import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
-import Iso9001 from "../../assets/img/Nosotros/Iso9001.png";
-import Iso45001 from "../../assets/img/Nosotros/Iso45001.png";
-import Iso14001 from "../../assets/img/Nosotros/Iso14001.png";
-import Iso39001 from "../../assets/img/Nosotros/Iso39001.jpeg";
+import Iso9001 from "../../utils/img/Nosotros/Iso9001.png";
+import Iso45001 from "../../utils/img/Nosotros/Iso45001.png";
+import Iso14001 from "../../utils/img/Nosotros/Iso14001.png";
+import Iso39001 from "../../utils/img/Nosotros/Iso39001.jpeg";
 import { Box, Grid, Container } from "@mui/material";
-import "../../assets/styles/Home/CardCertificados/CardCertificadosStyles.scss";
+import "../../utils/styles/Home/CardCertificados/CardCertificadosStyles.scss";
 import Button, { ButtonProps } from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
 /* const useStyles = makeStyles({

@@ -1,8 +1,8 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography } from "@mui/material";
-import "../../assets/styles/Home/Clientes/ClientesStyles.scss";
-import logorepsol from "../../assets/img/Logos/Repsol.png";
+import "../../utils/styles/Home/Clientes/ClientesStyles.scss";
+import logorepsol from "../../utils/img/Logos/Repsol.png";
 
 const ClientesBar = () => {
   return (
