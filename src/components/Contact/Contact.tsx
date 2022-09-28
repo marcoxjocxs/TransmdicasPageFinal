@@ -241,12 +241,11 @@ const Contact = () => {
                     scrolling="no"
                     src="https://maps.google.com/maps?width=600&amp;height=300&amp;hl=es&amp;q=Arequipa,Peru,Transmdicas+(Transmdicas)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                   >
-                    <a href="https://www.gps.ie/car-satnav-gps/">GPS devices</a>
+                    <a href="https://www.gps.ie/car-satnav-gps/">Base Transmdicas</a>
                   </iframe>
                 </div>
               </Box>
             </Grid>
-
             <Grid item xs={12} md={6}>
               <Box>
                 <Box className="ContenedorTittleGoogleMaps">
@@ -258,13 +257,14 @@ const Contact = () => {
                     height="300"
                     frameBorder="0"
                     scrolling="no"
-                    src="https://maps.google.com/maps?q=Estaci%C3%B3n%20de%20Servicios%20San%20Jos%C3%A9%20Espinar%20Cusco-PRIMAX&t=&z=17&ie=UTF8&iwloc=&output=embed"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957.1190222249191!2d-71.58139174583442!3d-16.349692544595367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9142361ae23d2269%3A0xbe0d473359128c8d!2sEstaci%C3%B3n%20de%20Servicios%20San%20Jos%C3%A9%20Espinar%20Cusco-PRIMAX!5e0!3m2!1ses-419!2spe!4v1664330463490!5m2!1ses-419!2spe"
                   >
-                    <a href="https://www.gps.ie/car-satnav-gps/">GPS devices</a>
+                    <a href="https://www.gps.ie/sport-gps/">Oficinas Transmdicas</a>
                   </iframe>
                 </div>
               </Box>
             </Grid>
+
           </Grid>
         </Box>
       </Container>

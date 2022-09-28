@@ -80,7 +80,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/9001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/14001">Ver mas</ColorButton>
                 </Box>
               </Box>
             </Grid>
@@ -98,7 +98,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification">
-                  <ColorButton variant="contained" size='large' href="/9001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/45001">Ver mas</ColorButton>
                 </Box>
               </Box>
             </Grid>
@@ -117,7 +117,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/9001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/39001">Ver mas</ColorButton>
                 </Box>
               </Box>
             </Grid>
