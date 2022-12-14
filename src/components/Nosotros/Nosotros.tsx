@@ -28,7 +28,7 @@ const Nosotros = () => {
                 <Typography variant="body2" style={{ marginBottom: "15px" }}>
                   TRANSMDICAS S.R.L. es una de las principales empresas que conforman el GRUPO PEZO,
                   la cual cuenta con amplia trayectoria en el transporte de materiales peligrosos y
-                  carga en general, iniciando sus actividades en el año 2002, desde entonces el crecimient
+                  carga en general, iniciando sus actividades en el año 2002, desde entonces el crecimiento
                   ha sido exponencial posicionándose en el mercado con una flota de unidades
                   realizando el transporte para diferentes unidades mineras e industrias.
                 </Typography>

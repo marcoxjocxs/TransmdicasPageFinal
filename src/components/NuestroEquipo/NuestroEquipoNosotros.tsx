@@ -51,67 +51,10 @@ const Equipo = () => {
             </Box>
             <Box style={{width:"100%"}}>
                 <Box display="flex" justifyContent="center">
-                    <ColorButton variant="contained" size='large' href="/galeria">Galeria</ColorButton>
+                    <ColorButton variant="contained" size='large' href="/galeria">Galería</ColorButton>
                 </Box>
             </Box>
 
-
-            {/* <Box className='ContainerCardsEquipo'>
-                <Grid container className='GridContainerCardsEquipo'>
-                    <Grid item xs={3} className="GridItemCardEquipo" >
-                        <Box className='containerImgCardEquipo'>
-                            <img src={carol} width="100%" />
-                        </Box>
-                        <Box textAlign="center" marginTop="21px">
-                            <Typography className='TittleCardEquipo' >
-                                Nombre y apellido
-                            </Typography>
-                            <Typography className='TextCardEquipo'>
-                                Carol Transmdicas
-                            </Typography>
-                        </Box>
-                    </Grid>
-                    <Grid item xs={3} className="GridItemCardEquipo" >
-                        <Box className='containerImgCardEquipo'>
-                            <img src={carol} width="100%" />
-                        </Box>
-                        <Box textAlign="center" marginTop="21px">
-                            <Typography className='TittleCardEquipo' >
-                                Nombre y apellido
-                            </Typography>
-                            <Typography className='TextCardEquipo'>
-                                Carol Transmdicas
-                            </Typography>
-                        </Box>
-                    </Grid>
-                    <Grid item xs={3} className="GridItemCardEquipo" >
-                        <Box className='containerImgCardEquipo'>
-                            <img src={carol} width="100%" />
-                        </Box>
-                        <Box textAlign="center" marginTop="21px">
-                            <Typography className='TittleCardEquipo' >
-                                Nombre y apellido
-                            </Typography>
-                            <Typography className='TextCardEquipo'>
-                                Carol Transmdicas
-                            </Typography>
-                        </Box>
-                    </Grid>
-                    <Grid item xs={3} className="GridItemCardEquipo" >
-                        <Box className='containerImgCardEquipo'>
-                            <img src={carol} width="100%" />
-                        </Box>
-                        <Box textAlign="center" marginTop="21px">
-                            <Typography className='TittleCardEquipo' >
-                                Nombre y apellido
-                            </Typography>
-                            <Typography className='TextCardEquipo'>
-                                Carol Transmdicas
-                            </Typography>
-                        </Box>
-                    </Grid>
-                </Grid>
-            </Box> */}
         </Container>
     )
 }

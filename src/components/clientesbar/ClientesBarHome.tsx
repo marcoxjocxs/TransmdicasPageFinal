@@ -3,7 +3,7 @@ import Container from "@mui/material/Container";
 import { Box, Grid, Link, Typography } from "@mui/material";
 import "../../utils/styles/Home/Clientes/ClientesStyles.scss";
 import logorepsol from "../../utils/img/Logos/Repsol.png";
-
+import logoSolGas from "../../utils/img/Logos/Logo-Solgas.png";
 const ClientesBar = () => {
   return (
     <Box>
@@ -22,7 +22,7 @@ const ClientesBar = () => {
               <Box className="ContenedorImgClientes" >
                 
                 <img src={logorepsol} className="imgclients" alt="" />
-           
+                <img className="imgclients" src={logoSolGas} alt="" />
               </Box>
             </Grid>
           </Grid>

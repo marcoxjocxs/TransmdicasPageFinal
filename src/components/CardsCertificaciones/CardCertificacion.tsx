@@ -10,6 +10,7 @@ import Iso9001 from "../../utils/img/Nosotros/Iso9001.png";
 import Iso45001 from "../../utils/img/Nosotros/Iso45001.png";
 import Iso14001 from "../../utils/img/Nosotros/Iso14001.png";
 import Iso39001 from "../../utils/img/Nosotros/Iso39001.jpeg";
+import logohodelpe from "../../utils/img/Logos/Logo-Hodelpe.png";
 import { Box, Grid, Container } from "@mui/material";
 import "../../utils/styles/Home/CardCertificados/CardCertificadosStyles.scss";
 import Button, { ButtonProps } from '@mui/material/Button';
@@ -62,7 +63,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification">
-                  <ColorButton variant="contained" size='large' href="/9001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/9001">Ver más</ColorButton>
                 </Box>
               </Box>
             </Grid>
@@ -80,7 +81,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/14001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/14001">Ver más</ColorButton>
                 </Box>
               </Box>
             </Grid>
@@ -98,7 +99,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification">
-                  <ColorButton variant="contained" size='large' href="/45001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/45001">Ver más</ColorButton>
                 </Box>
               </Box>
             </Grid>
@@ -117,7 +118,7 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/39001">Ver mas</ColorButton>
+                  <ColorButton variant="contained" size='large' href="/39001">Ver más</ColorButton>
                 </Box>
               </Box>
             </Grid>

@@ -36,11 +36,11 @@ const Cards = () => {
                                     Transporte de Hidrocarburos
                                 </Typography>
                                 <Typography className="textdescription">
-                                    Es DiselB5 S-50, Gasohol 84 , 90 ,95,97
+                                    Ofrecemos servicio de transporte con el más alto estándar a clientes mineros y estaciones de servicio (hidrocarburos y sus derivados).
                                 </Typography>
                             </Box>
                             <Box display="flex" justifyContent="flex-end">
-                                <ColorButton variant="outlined" size='large' href="/Servicios/Hidrocarburos">Ver mas</ColorButton>
+                                <ColorButton variant="outlined" size='large' href="/Servicios/Hidrocarburos">Ver más</ColorButton>
                             </Box>
 
                         </Box>
@@ -55,11 +55,11 @@ const Cards = () => {
                                     Transporte de GLP
                                 </Typography>
                                 <Typography className="textdescription">
-                                    Gas licuado de petroleo a granel en unidades primarias y secundarias 
+                                    Ofrecemos servicio de transporte de GLP a granel a los diferentes clientes con los que trabajamos. 
                                 </Typography>
                             </Box>
                             <Box display="flex" justifyContent="flex-end">
-                                <ColorButton variant="outlined" size='large'  href="Servicios/Glp">Ver mas</ColorButton>
+                                <ColorButton variant="outlined" size='large'  href="Servicios/Glp">Ver más</ColorButton>
                             </Box>
 
                         </Box>
@@ -74,11 +74,11 @@ const Cards = () => {
                                     Transporte de Cargas Diversas
                                 </Typography>
                                 <Typography className="textdescription">
-                                    Cargas en estado solido 
+                                    Ofrecemos servicio de transporte de materia variada para diferentes clientes 
                                 </Typography>
                             </Box>
                             <Box display="flex" justifyContent="flex-end" >
-                                <ColorButton variant="outlined" size='large' href="Servicios/CargasDiversas">Ver mas</ColorButton>
+                                <ColorButton variant="outlined" size='large' href="Servicios/CargasDiversas">Ver más</ColorButton>
                             </Box>
 
                         </Box>
