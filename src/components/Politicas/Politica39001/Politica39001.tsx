@@ -14,7 +14,7 @@ const Politica39001 = () => {
         paddingBottom: "20px",
         minHeight: "80vh",
         display: "flex",
-        alignItems: "center"
+        alignItems: "center",
       }}
     >
       <Box className="PoliticasPortada">
@@ -31,10 +31,9 @@ const Politica39001 = () => {
             <Box>
               <Box>
                 <Typography className="TextPolitica39001">
-                  Somos una empresa de Transporte de carga general por
-                  carretera, presentes en la industria y minería; contamos con
-                  certificaciones internacionales y profesionales comprometidos
-                  con la mejora continua en nuestros procesos.
+                  TRANSMDICAS S.R.L. es una empresa de Transporte por carretera
+                  de materiales peligrosos y carga en general, presente en la
+                  industria y minería;
                 </Typography>
               </Box>
               <Box>
@@ -47,57 +46,61 @@ const Politica39001 = () => {
               <Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    1. Contar con conductores calificados que estén
-                    comprometidos con su seguridad y la de los demás, portando
-                    documentación actualizada según requerimientos de los entes
-                    reguladores del Estado, estándares propios y de cliente.
+                    1. Reducir, y en última instancia eliminar, la incidencia y
+                    riesgo de las muertes y heridas graves derivadas de los
+                    accidentes de tráfico.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    2. Cumplir con el plan de mantenimiento de unidades con
-                    personal idóneo promoviendo las inspecciones programadas y
-                    el seguimiento de las mismas para transitar con vehículos
-                    seguros
+                    2. Contar con conductores competentes y comprometidos con su
+                    seguridad y la de los demás, portando documentación
+                    actualizada según requerimientos de los entes reguladores
+                    del Estado, estándares propios y de cliente.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    4. Contar con procedimientos para la atención de emergencias
-                    de tránsito de diferentes circunstancias y difundirlas a
-                    todo el personal, garantizando que la información se
-                    mantenga clara y actualizada.
+                    3. Transitar con unidades operativas asegurando el
+                    cumplimiento de mantenimientos e inspecciones efectivas.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    5. Respetar y cumplir los requisitos legales aplicables y
-                    los compromisos adquiridos en relación a la seguridad vial
+                    4. Evaluar preventivamente las condiciones climáticas
+                    adversas para continuar el tránsito
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    6. Cumplir y actualizar periódicamente los objetivos y metas
-                    de seguridad vial de la organización.
+                    5. Asegurar tránsitos seguros en la red vial aplicando los
+                    recursos tecnológicos según operación
                   </Typography>
                 </Box>
 
                 <Box>
                   <Typography className="TextPolitica39001">
-                    3. Contar con hojas de ruta que garanticen tránsitos seguros
-                    contando con el apoyo tecnológico.
+                    6. Promover actitudes y hábitos positivos para el
+                    cumplimiento de los objetivos de seguridad vial
+                  </Typography>
+                </Box>
+                <Box>
+                  <Typography className="TextPolitica39001">
+                    7. Cumplir los requisitos legales aplicables y otros
+                    compromisos adquiridos en relación a la seguridad vial.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
                     La gerencia se compromete a brindar recursos para mantener y
-                    mejorar continuamente el sistema de gestión de seguridad vial.
+                    mejorar continuamente el sistema de gestión de seguridad
+                    vial
                   </Typography>
                 </Box>
               </Box>
               <Box className="positiconversionandfecha">
-                <Typography>V.04</Typography>
-                <Typography>29/12/2021</Typography>
+                <Typography>V.00</Typography>
+                <Typography>16/12/2022</Typography>
               </Box>
             </Box>
           </Box>

@@ -15,7 +15,7 @@ const Politica14001 = () => {
         paddingBottom: "20px",
         minHeight: "80vh",
         display: "flex",
-        alignItems: "center"
+        alignItems: "center",
       }}
     >
       <Box className="PoliticasPortada">
@@ -23,7 +23,7 @@ const Politica14001 = () => {
       </Box>
       <Box style={{ padding: "82px 30px" }}>
         <Grid container>
-          <Grid item xs={12} md={6}>
+          <Grid item xs={12} md={8}>
             <Box className="PoliticasInformacion">
               <Box textAlign="center">
                 <Typography className="TittlePolitica14001">
@@ -33,10 +33,9 @@ const Politica14001 = () => {
               <Box>
                 <Box>
                   <Typography className="TextPolitica14001Part1">
-                    Somos una empresa de Transporte de carga general por
-                    carretera, presentes en la industria y minería; contamos con
-                    certificaciones internacionales y profesionales
-                    comprometidos con la mejora continua en nuestros procesos
+                    Transmdicas es una empresa de Transporte por carretera de
+                    materiales peligrosos y carga en general, presente en la
+                    industria y minería;
                   </Typography>
                 </Box>
                 <Box>
@@ -53,9 +52,8 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001Part3">
-                      Fomentar una cultura de protección al medio ambiente
-                      previniendo la contaminación y mitigación de impactos
-                      negativos en nuestros procesos
+                    Controlar los impactos ambientales significativos para el cumplimiento de 
+                    los objetivos organizacionales.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -65,8 +63,8 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001">
-                      Ser gestores del uso adecuado de los recursos naturales
-                      en nuestras actividades
+                    Fomentar una cultura de concientización y formación para la protección del 
+                    medio ambiente y el uso sostenible de los recursos.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -76,20 +74,18 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001">
-                      Cumplir los requisitos legales ambientales y otros
-                      aplicables
+                      Cumplir los requisitos legales ambientales y otros aplicables
                     </Typography>
                   </Box>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica14001">
-                    Revisar y mejorar continuamente el sistema de gestión
-                    ambiental.
+                    Revisar y mejorar continuamente el sistema de gestión ambiental
                   </Typography>
                 </Box>
                 <Box className="positiconversionandfecha">
-                  <Typography>V.00</Typography>
-                  <Typography>17/12/2021</Typography>
+                  <Typography>V.01</Typography>
+                  <Typography>16/12/2022</Typography>
                 </Box>
               </Box>
             </Box>
