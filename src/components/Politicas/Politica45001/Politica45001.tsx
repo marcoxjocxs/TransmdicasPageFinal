@@ -57,8 +57,12 @@ const Politica45001 = () => {
                     <Typography className="TextPolitica45001">
                       Gestionar la seguridad de procesos basada en el
                       comportamiento a fin de eliminar los peligros y reducir
-                      los riesgos asociados a nuestras actividades. • Garantizar
-                      la participación y consulta activa de nuestros
+                      los riesgos asociados a nuestras actividades.
+                    </Typography>
+                  </Box>
+                  <Box>
+                    <Typography className="TextPolitica45001">
+                    Garantizar la participación y consulta activa de nuestros
                       colaboradores y sus representantes, en temas relacionados
                       a la gestión de seguridad y salud en el trabajo.
                     </Typography>
