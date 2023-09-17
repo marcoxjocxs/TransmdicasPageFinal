@@ -1,0 +1,56 @@
+.footerStyle
+{
+    background: #8b8b8bdb;
+    padding-top: 40px;
+}
+.social-links-Footer {
+    display: flex;
+    padding: 20px 0;
+    list-style: none;
+    margin: 0;
+    justify-content: flex-end;
+    a{
+        color: white;
+    }
+    
+}
+
+.img_logo_footer{
+    height: 60px;
+}
+.SeccionFooter2{
+    padding-top: 35px;
+}
+.TituloLinkContactFooter{
+    font-weight: bold !important;
+    font-size: 15px !important;
+    color: white;
+}
+.ulstylesFooter
+{   padding: 0;
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.textTitleFooter{
+    font-size: 18px !important;
+    color: white;
+    font-weight: bolder !important;
+}
+
+.textTextFooter{
+    font-size: 12px !important;
+    color: white;
+    text-align: justify;
+}
+.li-text-Contacto{
+    font-size: 12px !important;
+    color: white;
+    a{
+        text-decoration: none;
+        color: white !important;
+    }
+}

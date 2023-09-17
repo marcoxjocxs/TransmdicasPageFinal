@@ -1,0 +1,73 @@
+.ContainerEquipo {
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+
+.TittleEquipo {
+    font-weight: bolder !important;
+    font-size: 18px !important;
+}
+
+.TextEquipoTittle {
+    font-size: 12px;
+    text-align: center;
+}
+
+.ContainerCardsEquipo {
+    width: 100%;
+    display: flex;
+}
+
+.GridContainerCardsEquipo {
+    justify-content: center;
+}
+
+.GridItemCardEquipo {
+    height: 100%;
+    justify-content: center;
+}
+
+.containerImgCardEquipo {
+
+    width: 100%;
+    height: 400px;
+
+    img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        object-position: top center;
+    }
+}
+
+.TittleCardEquipo {
+    font-weight: bolder !important;
+    font-size: 14px !important;
+    margin-bottom: 4px !important;
+}
+
+.TextCardEquipo {
+    font-size: 12px !important;
+}
+
+.containerNuestroEquipo {
+    height: 100%;
+    width: 100%;
+    img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        object-position: top center;
+    }
+}
+
+/* .contenedor1Img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.contenedor2Img {
+    object-fit: cover;
+    width: 100%;
+} */

@@ -1,0 +1,98 @@
+.poster1 {
+    width: 100%;
+    z-index: 1;
+    height: 100%;
+    position: absolute;
+    top: 0;
+
+    img {
+        object-fit: cover !important;
+        width: 100%;
+        height: auto;
+        /* filter: grayscale(1); */
+        /* object-fit: cover; */
+        height: 100%;
+        /* object-position: top center; */
+    }
+
+}
+
+.contenedorBannerTotal
+{
+    position: relative;
+    z-index: 1;
+    padding-bottom: 80px;
+    @media (max-width: 1700px) {
+        margin-top: -4px;
+    }
+    
+}
+.contenedor {
+    padding-top: 15%;
+}
+
+.contenidoPoster {
+    z-index: 2;
+    position: relative;
+    background: #8b8b8b7a;
+    padding: 25px 40px;
+    /*   min-height: 138px; */
+    width: 55%;
+    /* height: 138px; */
+    /* opacity: 0.5; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+
+    @media (max-width: 900px) {
+        z-index: 2;
+        position: relative;
+        background: #8b8b8b7a;
+        padding: 25px 40px;
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: white;
+    }
+    @media (max-width: 450px) {
+        z-index: 2;
+        position: relative;
+        background: #8b8b8b7a;
+        padding: 25px 30px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: white;
+    }
+
+
+}
+
+.titleposter {
+    font-size: 43px !important;
+    font-weight: bolder !important;
+    line-height: 1 !important;
+    margin-bottom: 12px !important;
+
+    @media (max-width: 900px) {
+        font-size: 30px !important;
+        font-weight: bolder !important;
+        line-height: 1 !important;
+        margin-bottom: 12px !important;
+    }
+    @media (max-width: 450px) {
+        font-size: 25px !important;
+        font-weight: bolder !important;
+        line-height: 1 !important;
+        margin-bottom: 12px !important;
+        text-align: center  ;
+    }
+
+}
+
+.textdescriptionposter {
+    font-size: 14px !important;
+}

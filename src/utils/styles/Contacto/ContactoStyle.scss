@@ -1,0 +1,88 @@
+.ContenedorContacto {
+    justify-content: center;
+    padding-Bottom: 50px;
+}
+
+.Part1Contact {
+    background: #282c34;
+    color: white;
+    padding: 50px 70px;
+    border-radius: 25px;
+
+    height: 100%;
+
+    .contenedorPartContact {
+        /* margin: 44px 50px; */
+    }
+
+    .ContendorContact2 {
+        margin-top: 35px;
+    }
+
+    .ContactoCorreo {
+        display: flex;
+        margin: 50px 0px;
+    }
+
+    .ContactoCall {
+        display: flex;
+        margin: 50px 0px;
+    }
+
+    .ContactoUbicacion {
+        display: flex;
+        margin: 50px 0px;
+    }
+
+    .TextContact {
+        font-size: 14px !important;
+
+    }
+
+    .TittleContact {
+        font-size: 35px !important;
+    }
+
+    .Contactanos {
+        margin: 10px 0px;
+    }
+}
+
+.Part2Contact {
+    /* padding-left: 30px; */
+    border-radius: 25px;
+    /* margin-left: 25px; */
+    background: lightgray;
+    padding: 25px 30px;
+
+    .contenedor2PartContact {
+        /*   margin: 25px 47px; */
+    }
+
+
+    .ButtonEnviarContacto {
+        text-align: center;
+    }
+}
+
+.TittleGooglemaps {
+    font-weight: bolder !important;
+}
+
+.ContenedorTittleGoogleMaps {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.imgrenzocontacto {
+
+    width: 100%;
+    border-radius: 25px;
+}
+.TittleContactoEmailJs{
+    font-weight: bolder !important;
+    font-size: 18px !important;
+    padding-bottom: 30px ;
+    padding-top: 15px;
+    text-align: center;
+}
