@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0e6cbec.css",
-    "main.js": "/static/js/main.eb54beac.js",
+    "main.js": "/static/js/main.9de2d12a.js",
     "static/js/787.75fb7311.chunk.js": "/static/js/787.75fb7311.chunk.js",
     "static/media/videoTransmdicas.mp4": "/static/media/videoTransmdicas.b9d1c97c36bc0eeab88c.mp4",
     "static/media/seguridadvial.jpg": "/static/media/seguridadvial.b45903b9bd4989bf8de2.jpg",
@@ -50,11 +50,11 @@
     "static/media/transmdicasV2.png": "/static/media/transmdicasV2.df29f04d9a8960ee0ce3.png",
     "index.html": "/index.html",
     "main.f0e6cbec.css.map": "/static/css/main.f0e6cbec.css.map",
-    "main.eb54beac.js.map": "/static/js/main.eb54beac.js.map",
+    "main.9de2d12a.js.map": "/static/js/main.9de2d12a.js.map",
     "787.75fb7311.chunk.js.map": "/static/js/787.75fb7311.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0e6cbec.css",
-    "static/js/main.eb54beac.js"
+    "static/js/main.9de2d12a.js"
   ]
 }

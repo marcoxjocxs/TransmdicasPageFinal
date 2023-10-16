@@ -13,8 +13,8 @@ import Iso39001 from "../../utils/img/Nosotros/Iso39001.jpeg";
 import logohodelpe from "../../utils/img/Logos/Logo-Hodelpe.png";
 import { Box, Grid, Container } from "@mui/material";
 import "../../utils/styles/Home/CardCertificados/CardCertificadosStyles.scss";
-import Button, { ButtonProps } from '@mui/material/Button';
-import { styled } from '@mui/material/styles';
+import Button, { ButtonProps } from "@mui/material/Button";
+import { styled } from "@mui/material/styles";
 /* const useStyles = makeStyles({
   root: {
     maxWidth: 345,
@@ -30,9 +30,9 @@ const ColorButton = styled(Button)<ButtonProps>(({ theme }) => ({
   border: "1.5px solid white",
   backgroundColor: "rgba(211, 211, 211, 0.43)",
   padding: "4.5px 30px",
-  '&:hover': {
+  "&:hover": {
     backgroundColor: "white",
-    color: "black"
+    color: "black",
   },
 }));
 
@@ -49,10 +49,12 @@ const CardCerti = () => {
         </Box>
         <Box>
           <Grid container className="contenedorCertificadosCard">
-            <Grid item xs={12}  md={6} lg={3} className="cardUnidadCertificado">
+            <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <img src={Iso9001} height="100px" />
+                  <a href="/9001">
+                    <img src={Iso9001} height="100px" />
+                  </a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
@@ -63,14 +65,18 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification">
-                  <ColorButton variant="contained" size='large' href="/9001">Ver más</ColorButton>
+                  <ColorButton variant="contained" size="large" href="/9001">
+                    Ver más
+                  </ColorButton>
                 </Box>
               </Box>
             </Grid>
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <img src={Iso14001} height="100px" />
+                  <a href="/14001">
+                    <img src={Iso14001} height="100px" />
+                  </a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
@@ -80,15 +86,17 @@ const CardCerti = () => {
                     Sistema de Gestion Ambiental
                   </Typography>
                 </Box>
-                <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/14001">Ver más</ColorButton>
+                <Box className="ButtonsCardCertification">
+                  <ColorButton variant="contained" size="large" href="/14001">
+                    Ver más
+                  </ColorButton>
                 </Box>
               </Box>
             </Grid>
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <img src={Iso45001} height="100px" />
+                  <a href="/45001"><img src={Iso45001} height="100px" /></a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
@@ -99,14 +107,16 @@ const CardCerti = () => {
                   </Typography>
                 </Box>
                 <Box className="ButtonsCardCertification">
-                  <ColorButton variant="contained" size='large' href="/45001">Ver más</ColorButton>
+                  <ColorButton variant="contained" size="large" href="/45001">
+                    Ver más
+                  </ColorButton>
                 </Box>
               </Box>
             </Grid>
-            <Grid item xs={12}  md={6} lg={3} className="cardUnidadCertificado">
+            <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <img src={Iso39001} height="100px" />
+                <a href="/39001"><img src={Iso39001} height="100px" /></a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
@@ -117,8 +127,10 @@ const CardCerti = () => {
                     Sistema de gestion de la seguridad vial
                   </Typography>
                 </Box>
-                <Box className="ButtonsCardCertification" >
-                  <ColorButton variant="contained" size='large' href="/39001">Ver más</ColorButton>
+                <Box className="ButtonsCardCertification">
+                  <ColorButton variant="contained" size="large" href="/39001">
+                    Ver más
+                  </ColorButton>
                 </Box>
               </Box>
             </Grid>
