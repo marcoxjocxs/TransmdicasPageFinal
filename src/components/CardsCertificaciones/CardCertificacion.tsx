@@ -52,7 +52,7 @@ const CardCerti = () => {
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <a href="/9001">
+                  <a href="https://www.sgs.com/es-pe">
                     <img src={Iso9001} height="100px" />
                   </a>
                 </Box>
@@ -74,7 +74,7 @@ const CardCerti = () => {
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <a href="/14001">
+                  <a href="https://www.sgs.com/es-pe">
                     <img src={Iso14001} height="100px" />
                   </a>
                 </Box>
@@ -96,7 +96,7 @@ const CardCerti = () => {
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                  <a href="/45001"><img src={Iso45001} height="100px" /></a>
+                  <a href="https://www.sgs.com/es-pe"><img src={Iso45001} height="100px" /></a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
@@ -116,7 +116,7 @@ const CardCerti = () => {
             <Grid item xs={12} md={6} lg={3} className="cardUnidadCertificado">
               <Box className="CardCertificacion">
                 <Box className="imgcarCertication">
-                <a href="/39001"><img src={Iso39001} height="100px" /></a>
+                <a href="https://www.smcsk.com/es/certificaciones"><img src={Iso39001} height="100px" /></a>
                 </Box>
                 <Box className="TextCardCetification">
                   <Typography className="TittleCardCertification">
