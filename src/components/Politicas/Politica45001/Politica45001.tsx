@@ -107,8 +107,8 @@ const Politica45001 = () => {
                 </Box>
 
                 <Box className="positiconversionandfecha">
-                  <Typography>V.02</Typography>
-                  <Typography>16/12/2022</Typography>
+                  <Typography>V.03</Typography>
+                  <Typography>22/12/2023</Typography>
                 </Box>
               </Box>
             </Box>
