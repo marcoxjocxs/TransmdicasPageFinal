@@ -16,7 +16,7 @@ const Politica9001 = () => {
         paddingBottom: "20px",
         minHeight: "80vh",
         display: "flex",
-        alignItems: "center"
+        alignItems: "center",
       }}
     >
       <Box className="PoliticasPortada">
@@ -34,16 +34,18 @@ const Politica9001 = () => {
               <Box>
                 <Box>
                   <Typography className="TextPolitica9001Part1">
-                    TRANSMDICAS S.R.L. es una empresa de Transporte por carretera de materiales 
-                    peligrosos y carga en general, presente en la industria y minería;
+                    TRANSMDICAS S.R.L. es una empresa de Transporte por
+                    carretera de materiales peligrosos y carga en general,
+                    presente en la industria y minería; conscientes de nuestra
+                    responsabilidad, nos comprometemos a:
                   </Typography>
                 </Box>
-                <Box>
+                {/* <Box>
                   <Typography className="TextPolitica9001Part2">
                     Siendo conscientes de nuestra responsabilidad, nos
                     comprometemos a:
                   </Typography>
-                </Box>
+                </Box> */}
                 <Box style={{ marginBottom: "20px" }}>
                   <Box display="flex">
                     <Box>
@@ -52,7 +54,8 @@ const Politica9001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica9001Part3">
-                      Cumplir las estrategias organizacionales garantizando los objetivos de calidad.
+                      Cumplir los objetivos estratégicos de calidad de la
+                      organización.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -62,8 +65,9 @@ const Politica9001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica9001">
-                      Fortalecer las competencias del personal en cada etapa del proceso de 
-                      transporte para asegurar la satisfacción de nuestros clientes.
+                      Fortalecer las competencias del personal en cada etapa del
+                      proceso de transporte para asegurar la satisfacción de
+                      nuestros clientes.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -73,8 +77,8 @@ const Politica9001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica9001">
-                      Brindar el servicio con flota vehicular en óptimas condiciones según 
-                      estándares del cliente
+                      Brindar el servicio con flota vehicular en óptimas
+                      condiciones según estándares del cliente.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -84,7 +88,8 @@ const Politica9001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica9001">
-                      Cumplir los requisitos legales y otros aplicables a nuestras actividades.
+                      Cumplir los requisitos legales y otros aplicables a
+                      nuestras actividades.
                     </Typography>
                   </Box>
                 </Box>
@@ -95,8 +100,8 @@ const Politica9001 = () => {
                   </Typography>
                 </Box>
                 <Box className="positiconversionandfecha">
-                  <Typography>V.01</Typography>
-                  <Typography>16/12/2022</Typography>
+                  <Typography>V.02</Typography>
+                  <Typography>21/12/2023</Typography>
                 </Box>
               </Box>
             </Box>

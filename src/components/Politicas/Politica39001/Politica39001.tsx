@@ -33,16 +33,18 @@ const Politica39001 = () => {
                 <Typography className="TextPolitica39001">
                   TRANSMDICAS S.R.L. es una empresa de Transporte por carretera
                   de materiales peligrosos y carga en general, presente en la
-                  industria y minería;
+                  industria y minería; conscientes de nuestra responsabilidad,
+                  nos comprometemos a cumplir las dimensiones de la seguridad
+                  vial:
                 </Typography>
               </Box>
-              <Box>
+              {/* <Box>
                 <Typography className="TextPolitica39001">
                   Siendo conscientes de nuestra responsabilidad, nos
                   comprometemos a cumplir las 05 dimensiones de la seguridad
                   vial:
                 </Typography>
-              </Box>
+              </Box> */}
               <Box>
                 <Box>
                   <Typography className="TextPolitica39001">
@@ -53,8 +55,8 @@ const Politica39001 = () => {
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
-                    2. Contar con conductores competentes y comprometidos con su
-                    seguridad y la de los demás, portando documentación
+                    2. Contar con conductores aptos, competentes y comprometidos
+                    con su seguridad y la de los demás, portando documentación
                     actualizada según requerimientos de los entes reguladores
                     del Estado, estándares propios y de cliente.
                   </Typography>
@@ -62,26 +64,27 @@ const Politica39001 = () => {
                 <Box>
                   <Typography className="TextPolitica39001">
                     3. Transitar con unidades operativas asegurando el
-                    cumplimiento de mantenimientos e inspecciones efectivas.
+                    cumplimiento del programa de carga, transporte y descarga de
+                    los clientes.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
                     4. Evaluar preventivamente las condiciones climáticas
-                    adversas para continuar el tránsito
+                    adversas para continuar el tránsito.
                   </Typography>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
                     5. Asegurar tránsitos seguros en la red vial aplicando los
-                    recursos tecnológicos según operación
+                    recursos tecnológicos implementados.
                   </Typography>
                 </Box>
 
                 <Box>
                   <Typography className="TextPolitica39001">
-                    6. Promover actitudes y hábitos positivos para el
-                    cumplimiento de los objetivos de seguridad vial
+                    6. Promover la cultura de seguridad vial para el
+                    cumplimiento de sus objetivos y metas.
                   </Typography>
                 </Box>
                 <Box>
@@ -92,15 +95,25 @@ const Politica39001 = () => {
                 </Box>
                 <Box>
                   <Typography className="TextPolitica39001">
+                    8. Activar la herramienta “Para, Piensa y Actúa”, cuando se
+                    detecte una condición insegura o en casos de fatiga y
+                    somnolencia; ante ello, no se tomará ningún tipo de
+                    represalia y solo se reiniciarán las actividades si en la
+                    evaluación de riesgos se determina que no afecta la
+                    seguridad e integridad física y mental de los colaboradores.
+                  </Typography>
+                </Box>
+                <Box>
+                  <Typography className="TextPolitica39001">
                     La gerencia se compromete a brindar recursos para mantener y
                     mejorar continuamente el sistema de gestión de seguridad
-                    vial
+                    vial.
                   </Typography>
                 </Box>
               </Box>
               <Box className="positiconversionandfecha">
-                <Typography>V.00</Typography>
-                <Typography>16/12/2022</Typography>
+                <Typography>V.01</Typography>
+                <Typography>29/12/2023</Typography>
               </Box>
             </Box>
           </Box>

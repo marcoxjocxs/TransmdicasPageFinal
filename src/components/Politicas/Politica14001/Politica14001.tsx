@@ -35,15 +35,16 @@ const Politica14001 = () => {
                   <Typography className="TextPolitica14001Part1">
                     Transmdicas es una empresa de Transporte por carretera de
                     materiales peligrosos y carga en general, presente en la
-                    industria y minería;
+                    industria y minería; consciente de nuestra responsabilidad,
+                    nos comprometemos a:
                   </Typography>
                 </Box>
-                <Box>
+                {/* <Box>
                   <Typography className="TextPolitica14001Part2">
                     Siendo conscientes de nuestra responsabilidad, nos
                     comprometemos a:
                   </Typography>
-                </Box>
+                </Box> */}
                 <Box style={{ marginBottom: "20px" }}>
                   <Box display="flex">
                     <Box>
@@ -52,8 +53,7 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001Part3">
-                    Controlar los impactos ambientales significativos para el cumplimiento de 
-                    los objetivos organizacionales.
+                      Cumplir los objetivos ambientales de la organización.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -63,8 +63,9 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001">
-                    Fomentar una cultura de concientización y formación para la protección del 
-                    medio ambiente y el uso sostenible de los recursos.
+                      Fomentar una cultura de concientización y formación para
+                      la protección del medio ambiente y el uso sostenible de
+                      los recursos.
                     </Typography>
                   </Box>
                   <Box display="flex">
@@ -74,18 +75,20 @@ const Politica14001 = () => {
                       />
                     </Box>
                     <Typography className="TextPolitica14001">
-                      Cumplir los requisitos legales ambientales y otros aplicables
+                      Cumplir los requisitos legales ambientales y otros
+                      aplicables.
                     </Typography>
                   </Box>
                 </Box>
                 <Box>
                   <Typography className="TextPolitica14001">
-                    Revisar y mejorar continuamente el sistema de gestión ambiental
+                    Revisar y mejorar continuamente el sistema de gestión
+                    ambiental.
                   </Typography>
                 </Box>
                 <Box className="positiconversionandfecha">
-                  <Typography>V.01</Typography>
-                  <Typography>16/12/2022</Typography>
+                  <Typography>V.02</Typography>
+                  <Typography>21/12/2023</Typography>
                 </Box>
               </Box>
             </Box>

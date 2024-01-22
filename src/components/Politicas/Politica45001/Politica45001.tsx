@@ -34,23 +34,24 @@ const Politica45001 = () => {
                   <Typography className="TextPolitica45001">
                     TRANSMDICAS S.R.L. es una empresa de Transporte por
                     carretera de materiales peligrosos y carga en general,
-                    presente en la industria y minería;
+                    presente en la industria y minería; conscientes de nuestra
+                    responsabilidad, nos comprometemos a:
                   </Typography>
                 </Box>
-                <Box>
+                {/*  <Box>
                   <Typography className="TextPolitica45001">
                     Siendo conscientes de nuestra responsabilidad, nos
                     comprometemos a:
                   </Typography>
-                </Box>
+                </Box> */}
                 <Box>
                   <Box>
                     <Typography className="TextPolitica45001">
                       Brindar un ambiente de trabajo seguro y saludable para el
                       óptimo desenvolvimiento de nuestros colaboradores con la
                       finalidad de prevenir accidentes, incidentes y
-                      enfermedades profesionales relacionados con nuestras
-                      actividades.
+                      enfermedades profesionales y otras dolencias relacionadas
+                      con nuestras actividades.
                     </Typography>
                   </Box>
                   <Box>
@@ -62,15 +63,23 @@ const Politica45001 = () => {
                   </Box>
                   <Box>
                     <Typography className="TextPolitica45001">
-                    Garantizar la participación y consulta activa de nuestros
-                      colaboradores y sus representantes, en temas relacionados
-                      a la gestión de seguridad y salud en el trabajo.
+                      Activar la herramienta “Para piensa y actúa” cuando
+                      existan situaciones que atenten contra su integridad
+                      física y/o impliquen la omisión o incumplimiento de normas
+                      seguras de trabajo.
                     </Typography>
                   </Box>
                   <Box>
                     <Typography className="TextPolitica45001">
-                      Fortalecer la cultura de prevención de seguridad y salud
-                      en el trabajo para el cumplimiento de los objetivos.
+                      Cumplir los requisitos legales aplicables y otros
+                      requisitos en beneficio de las partes interesadas.
+                    </Typography>
+                  </Box>
+                  <Box>
+                    <Typography className="TextPolitica45001">
+                      Garantizar la participación y consulta activa de nuestros
+                      colaboradores y sus representantes, en temas relacionados
+                      a la gestión de seguridad y salud en el trabajo.
                     </Typography>
                   </Box>
                   <Box>
@@ -82,27 +91,17 @@ const Politica45001 = () => {
                   </Box>
                   <Box>
                     <Typography className="TextPolitica45001">
-                      Activar la herramienta “Para, Piensa y Actúa” cuando se
-                      detecte un trabajo inseguro o presente de fatiga y
-                      somnolencia; ante ello, no se tomará ningún tipo de
-                      represalias y solo se reiniciarán las actividades si en la
-                      evaluación de riesgos se determina que no afecta la
-                      seguridad e integridad física y mental de los
-                      colaboradores.
-                    </Typography>
-                  </Box>
-                  <Box>
-                    <Typography className="TextPolitica45001">
-                      Cumplir los requisitos legales aplicables y otros
-                      requisitos en beneficio de las partes interesadas.
+                      Fortalecer la cultura de prevención de seguridad y salud
+                      en el trabajo para el cumplimiento de los objetivos.
                     </Typography>
                   </Box>
 
                   <Box>
                     <Typography className="TextPolitica45001">
-                      Mejorar continuamente el Sistema de Gestión de Seguridad y
-                      Salud en el trabajo, asegurando su compatibilidad con
-                      otros sistemas de Gestión de la organización.
+                      Mejorar continuamente el desempeño del Sistema de Gestión
+                      de Seguridad y Salud en el trabajo, asegurando su
+                      compatibilidad con otros sistemas de Gestión de la
+                      organización.
                     </Typography>
                   </Box>
                 </Box>
